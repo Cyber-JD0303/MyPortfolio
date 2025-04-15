@@ -24,12 +24,12 @@ This is a personal portfolio showcasing my skills and projects as a DevOps Engin
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/devops-portfolio.git
+   git clone https://github.com/Cyber-JD0303/MyPortfolio.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd devops-portfolio
+   cd MyPortfolio
    ```
 
 3. Install the dependencies:
@@ -61,4 +61,4 @@ This is a personal portfolio showcasing my skills and projects as a DevOps Engin
 
 ## Contact
 
-Feel free to reach out via the contact form in the portfolio or directly at [your-email@example.com].
+Feel free to reach out via the contact form in the portfolio or directly at [jemishdobariya9@gmail.com].
